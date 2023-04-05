@@ -13,7 +13,7 @@ h1 {
 
 p {
     color: #FFF !important;
-    font-size: 2em;
+    font-size: 1.5em;
     padding-top: 10px;
     width: 100%;
     font-family: Georgia;
@@ -29,4 +29,5 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     padding: 10px;
+    color: black !important;
 }
