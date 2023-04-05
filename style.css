@@ -19,6 +19,7 @@ p {
     font-family: Georgia;
     text-align: center;
     -webkit-text-size-adjust: none;
+    font-size-adjust: none;
 }
 
 .knap-div {
@@ -30,5 +31,5 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     padding: 10px;
-    color: black !important;
+    color: red !important;
 }
