@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(206, 175, 138);
+}
+
+h1 {
+    color: #FFF !important;
+    font-size: 2em;
+    padding-top: 75px;
+    width: 100%;
+    font-family: Georgia;
+    text-align: center;
+}
+
+p {
+    color: #FFF !important;
+    font-size: 1em;
+    padding-top: 10px;
+    width: 100%;
+    font-family: Georgia;
+    text-align: center;
+}
+
+.knap-div {
+    text-align: center;
+    padding: 10px 0 0;
+}
+
+#knap {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+}
