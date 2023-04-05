@@ -18,6 +18,7 @@ p {
     width: 100%;
     font-family: Georgia;
     text-align: center;
+    -webkit-text-size-adjust: none;
 }
 
 .knap-div {
